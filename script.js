@@ -1,1 +1,3 @@
-//your JS code here. If required.
+document.addEventListener("DOMContentLoaded",()=>{
+	doucment.write("DOM load success");
+});
